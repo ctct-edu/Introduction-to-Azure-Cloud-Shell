@@ -1,6 +1,6 @@
 ---
 wts:
-    title: '10 - PowerShell を使用してWebAppを作成する (10 分)'
+    title: 'PowerShell を使用してWebAppを作成する (10 分)'
 ---
 # PowerShell を使用してWebApp を作成する (10 分)
 
