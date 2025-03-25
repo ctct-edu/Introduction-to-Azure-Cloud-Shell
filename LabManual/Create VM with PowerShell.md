@@ -54,12 +54,12 @@ wts:
 
     | 設定       | 値               |
     | ---------- | ---------------- |
-    | ユーザー名 | **????admin**    |
+    | ユーザー名 | **admin**        |
     | パスワード | **Pa55w.rd1234** |
 
     ※????は苗字を入れてください。
 
-5. VMが作成されたら、ProvisioningStateがSucceededだったらVMが正常に作成されたことが確認できます。
+5. VMが作成されたら、「ProvisioningState」が「Succeeded」だったらVMが正常に作成されたことが確認できます。
 
     <img src="./media/wepapp05.png" alt="wepapp05" style="zoom:150%;" />
 
@@ -111,6 +111,8 @@ wts:
 
 このラボでは次の内容を学習しました。
 
-- Cloud ShellのPowerShellを使用してVMを作成しました。
-- Cloud ShellのPowerShellを使用してVMを停止しました。
-- Cloud ShellのPowerShellを使用してVMを削除しました。
+Cloud ShellのPowerShellを使用して以下を実行しました
+
+- VMを作成しました。
+- VMを停止しました。
+- VMを削除しました。
